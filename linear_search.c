@@ -14,7 +14,7 @@ void main()
         }
     }
     if (index != -1)
-    printf("Element present at index: %d", index);
+    printf("Element present at Index : %d", index);
     else
     printf("Element not Present");
 }
